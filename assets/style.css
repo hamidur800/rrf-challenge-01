@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&family=Roboto&display=swap');
+
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400, 800;
+    font-style: normal;
+}
+
+
+
+.Inter {
+    font-family: 'Inter', sans-serif;
+  }
+  
+.Poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+.Roboto {
+    font-family: 'Roboto', sans-serif;
+  }
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1296px;
+    margin: 0 auto;
+}
+
+
+.a-m {
+    margin: 0 auto;
+}
